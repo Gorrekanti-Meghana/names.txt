@@ -1,2 +1,1 @@
-Hi Yogitha I wanted to write a letter to you
-I miss you
+GitHub is a very good platform to showcase the projects
